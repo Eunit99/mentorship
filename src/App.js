@@ -26,7 +26,7 @@ function App() {
 		<>
 			<BrowserRouter>
 				<Routes>
-					<Route index path="/odecamp-mentorship" element={<Home />} />
+					<Route index path="/mentorship" element={<Home />} />
 					<Route path="/about" element={<About />} />
 					<Route path="/courses" element={<Courses />} />
 					<Route path="/trainers" element={<Trainers />} />
