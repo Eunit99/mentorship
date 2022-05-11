@@ -12,7 +12,7 @@ import About from './pages/about/About';
 import Courses from './pages/courses/Courses';
 import Trainers from './pages/trainers/Trainers';
 import Events from './pages/events/Events';
-import Pricing from './components/pricing/Pricing';
+import Pricing from './pages/pricing/Pricing';
 import Contact from './pages/contact/Contact';
 
 function App() {
