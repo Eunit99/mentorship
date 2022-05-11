@@ -1,5 +1,5 @@
-import Footer from "../utils/footer/Footer";
-import Navbar from "../utils/navbar/Navbar";
+import Footer from "../../components/utils/footer/Footer";
+import Navbar from "../../components/utils/navbar/Navbar";
 import HomeAbout from "./homeabout/HomeAbout";
 import Counter from "./counter/Counter";
 import Header from "./header/Header";

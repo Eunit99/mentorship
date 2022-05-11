@@ -7,13 +7,13 @@ import './assets/vendor/bootstrap-icons/bootstrap-icons.css';
 import './assets/vendor/boxicons/css/boxicons.min.css';
 import './assets/vendor/remixicon/remixicon.css';
 import './assets/vendor/swiper/swiper-bundle.min.css';
-import Home from './components/home/Home';
-import About from './components/about/About';
-import Courses from './components/courses/Courses';
-import Trainers from './components/trainers/Trainers';
-import Events from './components/events/Events';
+import Home from './pages/home/Home';
+import About from './pages/about/About';
+import Courses from './pages/courses/Courses';
+import Trainers from './pages/trainers/Trainers';
+import Events from './pages/events/Events';
 import Pricing from './components/pricing/Pricing';
-import Contact from './components/contact/Contact';
+import Contact from './pages/contact/Contact';
 
 function App() {
 

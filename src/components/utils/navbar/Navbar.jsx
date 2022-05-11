@@ -12,7 +12,7 @@ export default function Navbar() {
 
 					<nav id="navbar" className="navbar order-last order-lg-0">
 						<ul>
-							<li><a className="active" href="/">Home</a></li>
+							<li><a className="active" href="/mentorship">Home</a></li>
 							<li><a href="/about">About</a></li>
 							<li><a href="/courses">Courses</a></li>
 							<li><a href="/trainers">Trainers</a></li>
@@ -23,7 +23,7 @@ export default function Navbar() {
 						<i className="bi bi-list mobile-nav-toggle"></i>
 					</nav>
 
-					<a href="courses.html" className="get-started-btn">Get Started</a>
+					<a href="/mentorship" className="get-started-btn">Get Started</a>
 
 				</div>
 			</header>

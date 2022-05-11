@@ -1,7 +1,7 @@
-import Footer from "../utils/footer/Footer";
-import Navbar from "../utils/navbar/Navbar";
-import PageHeader from "../utils/pageheader/PageHeader";
-import PreloadAndScroll from "../utils/PreloadAndScroll";
+import Footer from "../../components/utils/footer/Footer";
+import Navbar from "../../components/utils/navbar/Navbar";
+import PageHeader from "../../components/utils/pageheader/PageHeader";
+import PreloadAndScroll from "../../components/utils/PreloadAndScroll";
 import Content from "./Content";
 
 export default function Courses() {
